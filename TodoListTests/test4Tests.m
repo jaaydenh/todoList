@@ -1,6 +1,6 @@
 //
-//  test4Tests.m
-//  test4Tests
+//  TodoListTests.m
+//  TodolistTests
 //
 //  Created by Jaayden on 10/13/13.
 //  Copyright (c) 2013 codepath. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface test4Tests : XCTestCase
+@interface TodoListTests : XCTestCase
 
 @end
 
-@implementation test4Tests
+@implementation TodoListTests
 
 - (void)setUp
 {

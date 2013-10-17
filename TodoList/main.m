@@ -1,6 +1,6 @@
 //
 //  main.m
-//  test4
+//  TodoList
 //
 //  Created by Jaayden on 10/13/13.
 //  Copyright (c) 2013 codepath. All rights reserved.

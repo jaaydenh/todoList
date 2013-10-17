@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7EA39A5B180B551D0062A379"
-               BuildableName = "test4.app"
-               BlueprintName = "test4"
-               ReferencedContainer = "container:test4.xcodeproj">
+               BuildableName = "TodoList.app"
+               BlueprintName = "TodoList"
+               ReferencedContainer = "container:TodoList.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7EA39A76180B551D0062A379"
-               BuildableName = "test4Tests.xctest"
-               BlueprintName = "test4Tests"
-               ReferencedContainer = "container:test4.xcodeproj">
+               BuildableName = "TodoListTests.xctest"
+               BlueprintName = "TodoListTests"
+               ReferencedContainer = "container:TodoList.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7EA39A5B180B551D0062A379"
-            BuildableName = "test4.app"
-            BlueprintName = "test4"
-            ReferencedContainer = "container:test4.xcodeproj">
+            BuildableName = "TodoList.app"
+            BlueprintName = "TodoList"
+            ReferencedContainer = "container:TodoList.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7EA39A5B180B551D0062A379"
-            BuildableName = "test4.app"
-            BlueprintName = "test4"
-            ReferencedContainer = "container:test4.xcodeproj">
+            BuildableName = "TodoList.app"
+            BlueprintName = "TodoList"
+            ReferencedContainer = "container:TodoList.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7EA39A5B180B551D0062A379"
-            BuildableName = "test4.app"
-            BlueprintName = "test4"
-            ReferencedContainer = "container:test4.xcodeproj">
+            BuildableName = "TodoList.app"
+            BlueprintName = "TodoList"
+            ReferencedContainer = "container:TodoList.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

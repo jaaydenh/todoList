@@ -1,19 +1,25 @@
 //
 //  AppDelegate.m
-//  test4
+//  TodoList
 //
 //  Created by Jaayden on 10/13/13.
 //  Copyright (c) 2013 codepath. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "TodoViewController.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
+    
+    TodoViewController *viewController = [[TodoViewController alloc] init];
+    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:viewController];
+    
+    self.window.rootViewController = navigationController;
+    
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
